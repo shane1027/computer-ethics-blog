@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Net Neutrality"
-date:   2017-03-28 10:00:00 -0500
+date:   2017-03-28 05:00:00 -0500
 categories: internet freedom regulation politics
 ---
 
